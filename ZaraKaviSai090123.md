@@ -10,6 +10,11 @@ Key Questions:
 2. Experimental design: describe how the experiment was setup to test the hypothesis?
 3. Machine Learning? What is this? How does it feature in this experiment?
 
+# Tasks: ChatGPT and validation analysis 
+1. What is ventral striatum?
+2. What are machine learning algorithms? How are they used in medicine?
+3. Summarise the article.
+
 ## Kavi: Game Development with Phasor.js
 
 1. Phasor Basics: https://www.codecademy.com/learn/learn-phaser
