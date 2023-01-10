@@ -13,7 +13,7 @@
 - https://chat.openai.com/
 
 
-## Physics & Engineering
+## Computer Science & Technology
 
 **10 January 2023**
 
@@ -22,3 +22,10 @@
 - https://www.youtube.com/watch?v=wQ8BIBpya2k
 
 - In this lesson, we will discuss and implement a fully connected deep learning model for classifying images of handwritten digits. We will learn what deep learning algorithms are, how they are motivated by the human brain, and how mathematics play a crucial role in developing and implementing deep learning algorithms.
+
+
+## Physics & Engineering
+
+**<--Date-->**
+
+1. **<--Title-->**
